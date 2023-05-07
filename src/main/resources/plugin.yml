@@ -1,0 +1,10 @@
+name: RandomSurvival
+version: '${project.version}'
+main: me.sfclog.randomsurvival.Main
+api-version: 1.19
+authors: [ SFC_Log ]
+depend:
+  - ProtocolLib
+commands:
+  randomsurvival:
+  spawn:
